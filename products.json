@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Earring",
+    "price": 12000,
+    "feature": true,
+    "company": "jewlZz origanl's"
+  },
+  {
+    "name": "Pendant",
+    "price": 8000,
+    "feature": true,
+    "company": "jewlZz origanl's"
+  },
+  {
+    "name": "Chain",
+    "price": 14000,
+    "feature": true,
+    "company": "jewlZz origanl's"
+  }
+]
